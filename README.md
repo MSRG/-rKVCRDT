@@ -1,5 +1,8 @@
 # rKVCRDT For Reversible CRDTs
 
+Link to paper: [Reversible conflict-free replicated data types](https://dl.acm.org/doi/abs/10.1145/3528535.3565252)
+
+
 ## How to run the servers:
 1. Set-up .Net (.Net 5): https://dotnet.microsoft.com/download
 2. Go to `Project_RAC/RAC/`
